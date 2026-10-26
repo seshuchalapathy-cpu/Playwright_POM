@@ -1,0 +1,51 @@
+{
+"suppliers":[
+{
+"SupplierName":"Ranga",
+"Address":"Ameepertpet lane21",
+"City":"Hyderabad",
+"Country":"India",
+"ContactPerson":"Qedge",
+"PhoneNumber":"4567890",
+"Email":"Ranga@gmail.com",
+"MobileNumber":"45678321",
+"Notes":"First Supplier"
+
+},
+{
+"SupplierName":"Ranga2",
+"Address":"Srnagar34",
+"City":"Hyderabad2",
+"Country":"India",
+"ContactPerson":"Ranga",
+"PhoneNumber":"4567890",
+"Email":"Ranga@gmail.com",
+"MobileNumber":"45678321",
+"Notes":"Second Supplier"
+}
+],
+"Customers":[
+{
+"CustomerName":"AppleCustomer",
+"Address":"Poland",
+"City":"Paris",
+"Country":"USA",
+"ContactPerson":"John",
+"PhoneNumber":"567890",
+"Email":"John@gmail.com",
+"MobileNumber":"8765443",
+"Notes":"Apple first Customer"
+},
+{
+"CustomerName":"Nokia",
+"Address":"Swizerland",
+"City":"Europe",
+"Country":"Poland",
+"ContactPerson":"Ramu",
+"PhoneNumber":"567890",
+"Email":"rmau@gmail.com",
+"MobileNumber":"45677676",
+"Notes":"Nokia first Customer" 
+}
+]
+}
